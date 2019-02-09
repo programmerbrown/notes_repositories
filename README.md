@@ -2,10 +2,10 @@
 
 Here is a brief review of how I organize my various repositories.
 
-| Repo Prefix | Description |
+| Repo Prefix &nbsp; &nbsp; &nbsp; &nbsp;  | Description |
 | ----------- | --- |
-| **tutorial_** | This repository is the product of following along to a tutorial. The tutorial could be a book, video course, or an article. |
-| **notes_** | Any repository is being used to hold notes on a particular topic. |
+| **tutorial_** | This repo is the product of a tutorial. The tutorial could be a book, video course, or an article. |
+| **notes_** | Notes on a particular topic. |
 | **projects_** | A group project from General Assembly. |
-| **sandbox_** | This repo is being used to explore particular technologies or programming ideas/concepts. |
+| **sandbox_** | This repo is being used to explore particular technologies, languages or programming ideas/concepts. |
 
